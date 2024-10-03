@@ -1,0 +1,6 @@
+# Ignore large files
+*.mp4
+*.resS
+Project/Library/
+Project/Temp/
+Project/Logs/
